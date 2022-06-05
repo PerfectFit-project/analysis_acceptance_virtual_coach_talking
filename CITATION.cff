@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software and/or data, please cite it as below."
+authors:
+- family-names: "Ekinci"
+  given-names: "Arsen"
+title: "My Research Software"
+version: 0.1
+doi: TBD
+date-released: 2022-6-8
+url: "https://github.com/PerfectFit-project/analysis_acceptance_virtual_coach_talking"
