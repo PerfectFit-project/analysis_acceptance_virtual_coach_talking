@@ -3,8 +3,8 @@ message: "If you use this software and/or data, please cite it as below."
 authors:
 - family-names: "Ekinci"
   given-names: "Arsen"
-title: "My Research Software"
+title: "Analysis of the ease and difficulty of talking to the virtual coach."
 version: 0.1
-doi: TBD
+doi: 10.5281/zenodo.6621533
 date-released: 2022-6-8
 url: "https://github.com/PerfectFit-project/analysis_acceptance_virtual_coach_talking"
