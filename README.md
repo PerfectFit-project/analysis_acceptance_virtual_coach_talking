@@ -3,7 +3,7 @@ This repository contains all software written and used, along with the outcomes 
 
 
 # References
-N. Albers, M. A. Neerincx, and W.-P. Brinkman, “Acceptance of a Virtual Coach for Quitting Smoking and Becoming Physically Active: Dataset,” May 2022. DOI: 10.4121/19934783.v1.
+[1] N. Albers, M. A. Neerincx, and W.-P. Brinkman, “Acceptance of a Virtual Coach for Quitting Smoking and Becoming Physically Active: Dataset,” May 2022. DOI: 10.4121/19934783.v1.
 
 
 # License
