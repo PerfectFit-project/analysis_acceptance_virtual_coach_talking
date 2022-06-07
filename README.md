@@ -10,3 +10,5 @@ This repository contains all software written and used, along with the outcomes 
 Copyright (C) 2022 Delft University of Technology.
 
 Licensed under the Apache License, version 2.0. See LICENSE for details.
+
+[![DOI](https://zenodo.org/badge/500115034.svg)](https://zenodo.org/badge/latestdoi/500115034)
