@@ -1,5 +1,9 @@
 # analysis_acceptance_virtual_coach_talking
-This repository contains all software written and used, along with the outcomes across all stages of the thematic analysis conducted on the reasons to find it easy or difficult to talk to the virtual coach.
+This repository contains all software written and used, along with the outcomes across all stages of the thematic analysis conducted on the reasons to find it easy or difficult to talk to the virtual coach. Throughout this project, use was made of the originally provided data set, which was also made public [1].
+
+
+# References
+N. Albers, M. A. Neerincx, and W.-P. Brinkman, “Acceptance of a Virtual Coach for Quitting Smoking and Becoming Physically Active: Dataset,” May 2022. DOI: 10.4121/19934783.v1.
 
 
 # License
