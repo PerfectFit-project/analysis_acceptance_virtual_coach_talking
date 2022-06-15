@@ -1,0 +1,66 @@
+"D:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\python.exe" D:/Downloads/analysis_acceptance_virtual_coach_talking-main/analysis_acceptance_virtual_coach_talking-main/python/cohens_kappa_calculator.py
+D:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\sklearn\metrics\_classification.py:604: RuntimeWarning: invalid value encountered in true_divide
+  k = np.sum(w_mat * confusion) / np.sum(w_mat * expected)
+Convos felt natural: 0.86637
+convos felt unnatural: 0.806139
+Convos felt familiar: 0.743772
+Convos felt restricted: 0.595789
+Convos flowed well: 0.841871
+Simple in general: 0.950207
+Repetitive: 0.665738
+Aware it's a machine: 0.959339
+Motivational: 1.0
+Patient: 0.497908
+Felt heard: 1.0
+Felt comfortable to talk: 0.908046
+Felt prioritized: 0.0
+Friendly: 0.900446
+Responsive: 0.0
+No Judgement: 0.885678
+Versatile: 1.0
+Informative: 0.922027
+Likeable personality: 1.0
+Unlikeable personality: 1.0
+Predictable: 0.665738
+Understanding/empathic: 1.0
+Personal: 0.798995
+Impersonal: 0.872881
+Didnt get to know sam: 1.0
+Clear in general: 0.8434
+Straight forward: 0.937888
+Easy to understand: 0.972093
+Clear language: 0.565611
+Casual language: 0.88785
+Helpful: 1.0
+Decent: 0.946309
+Enjoyable: 0.79798
+Engaging: 1.0
+Not engaging: 1.0
+Interesting: 0.665738
+Well designed: 0.796954
+Quick: 0.93228
+Intuitive in use: 0.890448
+Relaxing: 1.0
+No problems: 0.947832
+Simple language: 0.955457
+Prefer people over a chatbot: 0.856115
+Easy to reply in general: 0.837496
+Answering using MC was easy: 0.824617
+Answering by MC felt restrictive: 0.852941
+Proposed MC answers were good: 0.650485
+Proposed MC answers were too similar: 1.0
+Enjoyed being able to free-text respond: 0.93228
+Mentions MC (without value judgement): 0.819865
+Mentions free-text(without value judgement): 1.0
+Good tasks: 0.498433
+Specific questions: 0.831283
+Processes free-text replies well: 0.663551
+Processes free-text replies bad: 1.0
+Good replies in general: 0.803371
+Well explained replies: 0.710407
+Requirements were clear: 0.935354
+Easy to talk to: 0.882931
+Mostly used clicking: 0.983498
+Felt understood: 0.664804
+Simple questions: 0.952367
+Average Cohen's Kappa: 0.83
