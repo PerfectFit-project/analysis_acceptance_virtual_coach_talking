@@ -1,0 +1,82 @@
+$$ Correlation between themes and ratings $$
+column 1: t_unnatural
+column 2: A2R
+number of answers: 500
+Correlation: -0.3478976421542427
+P-Value: 1.1343826544636651e-15
+
+Process finished with exit code 0
+
+olumn 1: t_natural
+column 2: A2R
+number of answers: 500
+Correlation: 0.0893823543304609
+P-Value: 0.045754864687302194
+
+Process finished with exit code 0
+
+column 1: t_clarity
+column 2: A2R
+number of answers: 500
+Correlation: 0.07482010068222608
+P-Value: 0.0946853423914739
+
+Process finished with exit code 0
+
+column 1: t_comfortable
+column 2: A2R
+number of answers: 500
+Correlation: 0.12822707807988248
+P-Value: 0.004079700034518666
+
+Process finished with exit code 0
+
+column 1: t_ease
+column 2: A2R
+number of answers: 500
+Correlation: 0.025884546235212483
+P-Value: 0.5636394565695185
+
+Process finished with exit code 0
+
+column 1: t_impersonal
+column 2: A2R
+number of answers: 500
+Correlation: -0.08922157302453172
+P-Value: 0.04614768980974722
+
+Process finished with exit code 0
+
+$$ Correlation between characteristics and ratings $$
+
+column 1: age
+column 2: A2R
+number of answers: 500
+Correlation: -0.03659844880307892
+P-Value: 0.4141619035611502
+
+Process finished with exit code 0
+
+column 1: Openness to Experiences
+column 2: A2R
+number of answers: 500
+Correlation: 0.038021664831744975
+P-Value: 0.3962324245014021
+
+Process finished with exit code 0
+
+column 1: motivated_averaged
+column 2: A2R
+number of answers: 500
+Correlation: 0.3008489321848672
+P-Value: 6.413634715811598e-12
+
+Process finished with exit code 0
+
+column 1: easy_averaged
+column 2: A2R
+number of answers: 500
+Correlation: 0.3049542121186939
+P-Value: 3.201411694852104e-12
+
+Process finished with exit code 0
